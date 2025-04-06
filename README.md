@@ -1,6 +1,6 @@
 # Square Rooting of Modular Equations
 The modular equation, $a$ mod $m$ can be square rooted such that $x^2$ = $a$ mod $m$, where $m = pq$.
-It involves finding the roots of $a$ mod $p$ and $a$ mod $q$, separately. The result is usually a set of 4 roots {$root_1$, $root_2$, $root_3$, $root_4$}.
+It involves finding the roots of $a$ mod $p$ and $a$ mod $q$, separately. The result is usually a set of 4 roots { $root_1$, $root_2$, $root_3$, $root_4$ }.
 
 ### Hoffstein's Proposition
 Let $p$ be a prime such that $p\equiv 3\pmod{4}$. Let $a$ be an integer such that the congruence $x^2 \equiv a\pmod{p}$ has a solution; i.e. that $a$ has a square root modulo $p$. Then, $b \equiv a^{(p+1)/4}\pmod{p}$ is a square root of $a\pmod{p}$.
